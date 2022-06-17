@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/1RN19IS005/app/src/main/res/drawable/calcbuttonbg.xml" value="0.312" />
+        <entry key="..\:/Android Projects/1RN19IS005/app/src/main/res/drawable/calcresultbg.xml" value="0.312" />
+        <entry key="..\:/Android Projects/1RN19IS005/app/src/main/res/drawable/changingwallbtn.xml" value="0.312" />
+        <entry key="..\:/Android Projects/1RN19IS005/app/src/main/res/drawable/indexlist_background.xml" value="0.3615" />
+        <entry key="..\:/Android Projects/1RN19IS005/app/src/main/res/drawable/pgm1bg.xml" value="0.3615" />
+        <entry key="..\:/Android Projects/1RN19IS005/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Android Projects/1RN19IS005/app/src/main/res/layout/activity_pgm1.xml" value="0.3859375" />
+        <entry key="..\:/Android Projects/1RN19IS005/app/src/main/res/layout/activity_pgm4.xml" value="0.3859375" />
+        <entry key="..\:/Android Projects/1RN19IS005/app/src/main/res/layout/activity_simple_calculator.xml" value="0.4" />
+        <entry key="..\:/Android Projects/1RN19IS005/app/src/main/res/layout/index_list.xml" value="0.39895833333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
