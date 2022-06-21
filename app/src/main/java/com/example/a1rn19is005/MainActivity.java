@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         binding.two.setOnClickListener(view -> startActivity(new Intent(context,SimpleCalculator.class)));
         binding.three.setOnClickListener(view -> startActivity(new Intent(context,pgm3.class)));
         binding.four.setOnClickListener(view -> startActivity(new Intent(context,pgm4.class)));
+        binding.five.setOnClickListener(view -> startActivity(new Intent(context,pgm5.class)));
 
     }
 }
