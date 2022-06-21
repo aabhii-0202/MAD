@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         binding.three.setOnClickListener(view -> startActivity(new Intent(context,pgm3.class)));
         binding.four.setOnClickListener(view -> startActivity(new Intent(context,pgm4.class)));
         binding.five.setOnClickListener(view -> startActivity(new Intent(context,pgm5.class)));
+        binding.seven.setOnClickListener(view -> startActivity(new Intent(context,pgm7.class)));
 
     }
 }
